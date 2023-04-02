@@ -1,6 +1,6 @@
 # Maycow Douglas
 
-Olá, eu sou um desenvolvedor de software com experiência em várias tecnologias e áreas de atuação. Atualmente, trabalho na QTC One como desenvolvedor, onde sou responsável pela configuração e manutenção de droplets na Digital Ocean, desenvolvimento de sites em ReactJS, Wordpress e VueJS, além do aprimoramento e manutenção de um e-commerce em Symfony que tem um faturamento mensal de 1 milhão.
+Olá, eu sou um desenvolvedor de software com experiência em várias tecnologias e áreas de atuação. Atualmente, trabalho na QTC One como desenvolvedor fullstack, onde sou responsável pela configuração e manutenção de droplets na Digital Ocean, desenvolvimento de sites em ReactJS, Wordpress e VueJS, além do aprimoramento e manutenção de um e-commerce em Symfony que tem um faturamento mensal de 1 milhão.
 
 Também desempenho outras atividades na QTC One, como o treinamento de usuários e desenvolvedores, apresentação de resultados para clientes e desenvolvimento de landpages e email marketing. Acredito que a constante busca pelo aprimoramento é essencial para o sucesso de qualquer projeto, e é por isso que me dedico a aprimorar minhas habilidades constantemente.
 
